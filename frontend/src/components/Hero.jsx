@@ -1,6 +1,6 @@
 import { motion } from 'framer-motion';
 import { HERO_CONTENT } from '../constants';
-import profilePic from '../assets/yaseeProfile.jpg';
+import profilePic from '../assets/kevinRushProfile.jpg';
 import React, { useState, useEffect } from 'react';
 
 const Hero = () => {
