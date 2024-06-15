@@ -6,7 +6,7 @@ import project5 from "../assets/projects/DeManager.png";
 import project6 from "../assets/projects/Pizza.png";
 
 export const HERO_CONTENT = ``
-export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications. With 5 years of professional experience, I have worked with a variety of technologies, including React, Next.js, Node.js, MySQL, PostgreSQL, and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
+export const ABOUT_TEXT = `I am a highly motivated and results-driven undergraduate student pursuing a BSc. (Hons) in Information Systems at Sabaragamuwa University of Sri Lanka. With a solid foundation in stakeholder management and problem-solving, I possess strong prioritization skills, enabling me to effectively manage multiple tasks simultaneously. My expertise includes React.js, Firebase, .NET, MongoDB, JavaScript, C#, and Arduino. With a passion for learning and a proactive approach, I am eager to contribute my skills and knowledge to drive innovation and success in any environment I'm in.`;
 
 
 export const PROJECTS = [
@@ -14,7 +14,7 @@ export const PROJECTS = [
     title: "Smart_X",
     image: project1,
     description:
-      "Smart building and components controlling system.",
+      "SmartX integrates IoT to connect building components to the Internet. Users can remotely control lights, fans, and switches and monitor temperature and power usage through the web application.",
     technologies: ["Arduino", "CSS", "React", "C++", "Firebase"],
   },
   {

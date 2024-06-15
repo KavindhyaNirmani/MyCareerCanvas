@@ -28,7 +28,7 @@ const Footer = () => {
       <p className="mt-8 text-gray-400">
         Don't hesitate to contact me whenever you need assistance; I'm just a message away.
       </p>
-      <p className="mt-4">&copy; {new Date().getFullYear()} Yasindu Rathnayaka. All rights reserved.</p>
+      <p className="mt-4">&copy; {new Date().getFullYear()} Kavindhya Liyanage. All rights reserved.</p>
     </motion.footer>
   );
 };
