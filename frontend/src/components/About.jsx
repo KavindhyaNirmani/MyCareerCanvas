@@ -1,6 +1,6 @@
 import { motion } from 'framer-motion';
 import { ABOUT_TEXT } from '../constants';
-import profilePic from '../assets/kevinRushProfile.jpg';
+import profilePic from '../assets/profile.jpg';
 
 const About = () => {
   return (

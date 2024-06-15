@@ -1,6 +1,6 @@
 import { motion } from 'framer-motion';
 import { HERO_CONTENT } from '../constants';
-import profilePic from '../assets/kevinRushProfile.jpg';
+import profilePic from '../assets/profile.jpg';
 import React, { useState, useEffect } from 'react';
 
 const Hero = () => {
@@ -64,7 +64,7 @@ const Hero = () => {
         <div className="w-full lg:w-1/2">
           <div className="flex flex-col items-center lg:items-start">
             <h1 className="pb-16 text-4xl font-semibold tracking-tight lg:mt-16 lg:text-8xl">
-              Yasindu Rathnayaka
+              Kavindhya Liyanage
             </h1>
             <span className="text-2xl tracking-tight text-transparent bg-gradient-to-r from-pink-300 via-slate-500 to-purple-500 bg-clip-text">
               {fullText.split('').map((char, index) => (
