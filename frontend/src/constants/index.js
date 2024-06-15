@@ -16,6 +16,7 @@ export const PROJECTS = [
     description:
       "SmartX integrates IoT to connect building components to the Internet. Users can remotely control lights, fans, and switches and monitor temperature and power usage through the web application.",
     technologies: ["Arduino", "CSS", "React", "C++", "Firebase"],
+    githubLink: "https://github.com/KavindhyaNirmani/smart-building"
   },
   {
     title: "WanderLuxe",
@@ -23,6 +24,7 @@ export const PROJECTS = [
     description:
       "Developed a travel booking website with intuitive search, secure payments, responsive design, and  hotels,  enhancing user experience and simplifying travel planning.",
     technologies: [ "React", "CSS", "Firebase", "MongoDB"],
+    githubLink:"https://github.com/KavindhyaNirmani/WanderLuxe"
   },
   {
     title: "MyCareerCanvas",
@@ -30,6 +32,7 @@ export const PROJECTS = [
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
     technologies: ["Frame-Motion",  "React", "Tailwind"],
+    githubLink: "https://github.com/KavindhyaNirmani/MyCareerCanvas"
   },
   {
     title: "SkySync",
@@ -37,6 +40,7 @@ export const PROJECTS = [
     description:
       "Created a weather app to check temperature, date, time, wind speed, and humidity, providing accurate and real-time weather updates with a user-friendly interface.",
     technologies: [ "React", "Tailwind"],
+    githubLink: "https://github.com/KavindhyaNirmani/SkySync"
   },
   {
     title: "De-Manager",
@@ -44,6 +48,7 @@ export const PROJECTS = [
     description:
       "Developed a vehicle service appointment booking system with easy scheduling, real-time availability, and user-friendly interface, streamlining the process for customers and service providers.",
     technologies: ["Reaact", "Tailwind", "MongoDB", "Node.js"],
+    githubLink: "https://github.com/KavindhyaNirmani/De-Manager"
   },
   {
     title: "TastyToppings",
@@ -51,6 +56,7 @@ export const PROJECTS = [
     description:
       "Streamline pizza orders with our user-friendly app, offering a variety of toppings, real-time tracking, and exclusive deals. Enjoy the convenience of customized pizzas delivered right to your door.",
     technologies: ["React", "CSS", "Node.js", "MongoDB"],
+    githubLink: "https://github.com/KavindhyaNirmani/Pizza_Hut"
   },
 
 ];
