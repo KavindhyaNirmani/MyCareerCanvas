@@ -1,5 +1,4 @@
 import { motion } from 'framer-motion';
-import logo from "../assets/kevinRushLogo.png";
 import { FaLinkedin, FaGithub, FaTwitterSquare, FaInstagram } from "react-icons/fa";
 
 const Navbar = () => {
